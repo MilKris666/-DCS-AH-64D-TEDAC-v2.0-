@@ -18,6 +18,8 @@ For the electronics I went with Leo Bodnar boards because they “just work”. 
 
 Labeling was done with a diode laser. All laser files are included. If you can’t laser, I also included STL variants with raised text - just hit the letters with a white paint marker and maybe clear coat it so it survives your sweaty gamer hands.
 
+All files are located in the STLs.zip directory. It also contains the TEDACv2.0-How-To.pdf.
+
 # **RTFM** -- read the uncluded **TEDACv2.0-How-To.pdf** !!
 
 Assembly process: https://www.youtube.com/watch?v=FEGQhRf7oR0
