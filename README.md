@@ -1,6 +1,6 @@
 # AH-64D-Apache TEDAC (v2.0)
 
-![Alt text](Overview.jpg)
+![Alt text](overview.jpg)
 
 Demo: [https://youtube.com/shorts/2huMgZh5P64](https://youtu.be/FEGQhRf7oR0)
 
