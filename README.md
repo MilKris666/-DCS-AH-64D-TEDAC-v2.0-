@@ -2,7 +2,7 @@
 
 ![Alt text](overview.jpg)
 
-Demo: [https://youtube.com/shorts/2huMgZh5P64](https://youtu.be/FEGQhRf7oR0)
+Assembly process: https://www.youtube.com/watch?v=FEGQhRf7oR0
 
 This is the successor to my old 7-inch TEDAC. This time I slapped the same 8" panel into the TDU (TEDAC Display Unit) that I’m using for my MPDs. For VR users, an actual LCD screen doesn’t make much sense - that’s why I’ve included a extra STL file for 3D printing
  The whole thing is part of my CP/G front panel for my modular cockpit setup. The CP/G panel, including the EUFD and Armament Panel, will drop as its own project soon (two weeks™).
@@ -18,9 +18,9 @@ For the electronics I went with Leo Bodnar boards because they “just work”. 
 
 Labeling was done with a diode laser. All laser files are included. If you can’t laser, I also included STL variants with raised text - just hit the letters with a white paint marker and maybe clear coat it so it survives your sweaty gamer hands.
 
-**RTFM** -- read the uncluded **TEDACv2.0-How-To.pdf** !!
+# **RTFM** -- read the uncluded **TEDACv2.0-How-To.pdf** !!
 
-# DONATE: Feel free to say thanks... https://www.paypal.com/donate/?hosted_button_id=XG6RA9RWPM84Y
+ DONATE: Feel free to say thanks... https://www.paypal.com/donate/?hosted_button_id=XG6RA9RWPM84Y
 
 
 **LICENSE:**
