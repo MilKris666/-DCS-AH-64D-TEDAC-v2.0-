@@ -22,7 +22,7 @@ All files are located in the STLs.zip directory. It also contains the TEDACv2.0-
 
 The total cost for the version with a screen an the Leo Bodnar Boards is around €230 If you’re using an Arduino and marching through the Valley of Tears wiring everything up with shift registers, you’ll end up saving like €100 in parts — and gaining +5 to electrical PTSD.
 
-# **RTFM** -- read the uncluded **TEDACv2.0-How-To.pdf** !!
+# **RTFM** -- read the included **TEDACv2.0-How-To.pdf** !!
 
 Assembly process: https://www.youtube.com/watch?v=FEGQhRf7oR0
 
