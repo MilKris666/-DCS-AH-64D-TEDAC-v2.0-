@@ -20,7 +20,7 @@ Labeling was done with a diode laser. All laser files are included. If you can�
 
 All files are located in the STLs.zip directory. It also contains the TEDACv2.0-How-To.pdf. GitHub’s PDF preview does not allow clickable links. To access the links in the parts list, download the PDF file.
 
-The total cost for the version with a screen an the Leo Bodnar Boards is around €230 If you’re using an Arduino and marching through the Valley of Tears wiring everything up with shift registers, you’ll end up saving like €100 in parts — and gaining +5 to electrical PTSD.
+The total cost for the version with a screen an the Leo Bodnar Boards is around €230 If you’re using an Arduino and marching through the Valley of Tears wiring everything up with shift registers, you’ll end up saving like €100 in parts and gaining +5 to electrical PTSD.
 
 # **RTFM** -- read the included **TEDACv2.0-How-To.pdf** !!
 
